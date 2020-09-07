@@ -1,0 +1,45 @@
+
+1599443380358,844,http://localhost:60968/authentication/authentication/signin,200,OK,Thread Group 1-1,text,true,,491,482,1,1,http://localhost:60968/authentication/authentication/signin,839,0,58
+1599443381217,3019,http://localhost:5000/Account/Profile,200,OK,Thread Group 1-1,text,true,,7100671,10524,1,1,http://localhost:5000/Account/Profile,7,0,1
+1599443381217,7,http://localhost:5000/Account/Profile-0,200,OK,Thread Group 1-1,text,true,,2047,483,1,1,http://localhost:5000/Account/Profile,7,0,1
+1599443381324,1663,http://localhost:5000/Account/Profile-1,200,OK,Thread Group 1-1,text,true,,4604,503,1,1,"https://fonts.googleapis.com/css?family=Montserrat:400,700",1662,0,1528
+1599443381327,1656,http://localhost:5000/Account/Profile-2,200,OK,Thread Group 1-1,text,true,,3874,517,1,1,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",1655,0,1522
+1599443381327,2909,http://localhost:5000/Account/Profile-3,200,OK,Thread Group 1-1,text,true,,794073,1014,1,1,http://localhost:5000/css/semantic.css,13,0,0
+1599443381327,17,http://localhost:5000/Account/Profile-4,200,OK,Thread Group 1-1,text,true,,17723,485,1,1,http://localhost:5000/css/MarsTheme.css,17,0,1
+1599443381329,189,http://localhost:5000/Account/Profile-5,200,OK,Thread Group 1-1,text,true,,412561,485,1,1,http://localhost:5000/css/scheduler.css,21,0,1
+1599443381329,103,http://localhost:5000/Account/Profile-6,200,OK,Thread Group 1-1,text,true,,278520,486,1,1,http://localhost:5000/js/jquery-3.2.1.js,23,0,1
+1599443381434,651,http://localhost:5000/Account/Profile-7,200,OK,Thread Group 1-1,text,true,,769533,482,1,1,http://localhost:5000/js/semantic.js,221,0,0
+1599443382084,223,http://localhost:5000/Account/Profile-8,200,OK,Thread Group 1-1,text,true,,3482,484,1,1,http://localhost:5000/util/Mars-lib.js,223,0,0
+1599443382087,132,http://localhost:5000/Account/Profile-9,200,OK,Thread Group 1-1,text,true,,8601,510,1,1,http://localhost:5000/util/NotificationFx/js/modernizr.custom.js,132,0,0
+1599443382219,143,http://localhost:5000/Account/Profile-10,200,OK,Thread Group 1-1,text,true,,2141,501,1,1,http://localhost:5000/util/NotificationFx/js/classie.js,143,0,0
+1599443382308,606,http://localhost:5000/Account/Profile-11,200,OK,Thread Group 1-1,text,true,,73407,506,1,1,http://localhost:5000/util/NotificationFx/js/snap.svg-min.js,334,0,0
+1599443382362,277,http://localhost:5000/Account/Profile-12,200,OK,Thread Group 1-1,text,true,,4407,508,1,1,http://localhost:5000/util/NotificationFx/js/notificationFx.js,277,0,0
+1599443382640,272,http://localhost:5000/Account/Profile-13,200,OK,Thread Group 1-1,text,true,,2037,505,1,1,http://localhost:5000/util/NotificationFx/css/normalize.css,272,0,0
+1599443382915,122,http://localhost:5000/Account/Profile-14,200,OK,Thread Group 1-1,text,true,,1619,506,1,1,http://localhost:5000/util/NotificationFx/css/ns-default.css,122,0,0
+1599443382916,109,http://localhost:5000/Account/Profile-15,200,OK,Thread Group 1-1,text,true,,5861,513,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-attached.css,109,0,0
+1599443382930,92,http://localhost:5000/Account/Profile-16,200,OK,Thread Group 1-1,text,true,,5831,508,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-bar.css,92,0,0
+1599443382994,318,http://localhost:5000/Account/Profile-17,200,OK,Thread Group 1-1,text,true,,45621,510,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-growl.css,318,0,2
+1599443382994,213,http://localhost:5000/Account/Profile-18,200,OK,Thread Group 1-1,text,true,,29233,510,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-other.css,213,0,0
+1599443383036,1167,http://localhost:5000/Account/Profile-19,200,OK,Thread Group 1-1,text,true,,4635496,508,1,1,http://localhost:5000/js/react/dist/myAccountProfile.bundle.js,133,0,0
+1599443386443,229,http://localhost:5000/Home,200,OK,Thread Group 1-1,text,true,,3385485,11419,1,1,http://localhost:5000/Home,4,0,0
+1599443386443,5,http://localhost:5000/Home-0,200,OK,Thread Group 1-1,text,true,,2021,472,1,1,http://localhost:5000/Home,4,0,0
+1599443386461,135,http://localhost:5000/Home-1,200,OK,Thread Group 1-1,text,true,,4604,553,1,1,"https://fonts.googleapis.com/css?family=Montserrat:400,700",134,0,0
+1599443386463,125,http://localhost:5000/Home-2,200,OK,Thread Group 1-1,text,true,,3874,567,1,1,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",123,0,0
+1599443386461,16,http://localhost:5000/Home-3,304,Not Modified,Thread Group 1-1,text,true,,200,568,1,1,http://localhost:5000/css/semantic.css,0,0,0
+1599443386464,15,http://localhost:5000/Home-4,304,Not Modified,Thread Group 1-1,text,true,,200,569,1,1,http://localhost:5000/css/MarsTheme.css,0,0,0
+1599443386463,16,http://localhost:5000/Home-5,304,Not Modified,Thread Group 1-1,text,true,,200,569,1,1,http://localhost:5000/css/scheduler.css,0,0,0
+1599443386463,12,http://localhost:5000/Home-6,304,Not Modified,Thread Group 1-1,text,true,,214,570,1,1,http://localhost:5000/js/jquery-3.2.1.js,0,0,0
+1599443386475,13,http://localhost:5000/Home-7,304,Not Modified,Thread Group 1-1,text,true,,214,566,1,1,http://localhost:5000/js/semantic.js,0,0,0
+1599443386477,13,http://localhost:5000/Home-8,304,Not Modified,Thread Group 1-1,text,true,,214,568,1,1,http://localhost:5000/util/Mars-lib.js,0,0,0
+1599443386481,5,http://localhost:5000/Home-9,304,Not Modified,Thread Group 1-1,text,true,,214,594,1,1,http://localhost:5000/util/NotificationFx/js/modernizr.custom.js,0,0,0
+1599443386480,6,http://localhost:5000/Home-10,304,Not Modified,Thread Group 1-1,text,true,,214,585,1,1,http://localhost:5000/util/NotificationFx/js/classie.js,0,0,0
+1599443386487,8,http://localhost:5000/Home-11,304,Not Modified,Thread Group 1-1,text,true,,214,590,1,1,http://localhost:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1599443386487,10,http://localhost:5000/Home-12,304,Not Modified,Thread Group 1-1,text,true,,214,592,1,1,http://localhost:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1599443386489,9,http://localhost:5000/Home-13,304,Not Modified,Thread Group 1-1,text,true,,200,589,1,1,http://localhost:5000/util/NotificationFx/css/normalize.css,0,0,0
+1599443386490,5,http://localhost:5000/Home-14,304,Not Modified,Thread Group 1-1,text,true,,200,590,1,1,http://localhost:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1599443386495,8,http://localhost:5000/Home-15,304,Not Modified,Thread Group 1-1,text,true,,200,597,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1599443386495,7,http://localhost:5000/Home-16,304,Not Modified,Thread Group 1-1,text,true,,200,592,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1599443386497,6,http://localhost:5000/Home-17,304,Not Modified,Thread Group 1-1,text,true,,200,594,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1599443386498,4,http://localhost:5000/Home-18,304,Not Modified,Thread Group 1-1,text,true,,200,594,1,1,http://localhost:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1599443386502,170,http://localhost:5000/Home-19,200,OK,Thread Group 1-1,text,true,,3371688,500,1,1,http://localhost:5000/js/react/dist/homePage.bundle.js,7,0,0
+1599443380230,4092,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,10486647,22425,1,1,null,850,2354,59
